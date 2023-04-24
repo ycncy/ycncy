@@ -5,22 +5,22 @@
 
 ## Mes projets
 
-<span style="font-size: 24px">**Classifieur d'images**</span>
+<span style="font-size: 24px"><a href="https://github.com/ycncy/ImageClassifier">Classifieur d'images</a></span>
 <br>
 Un programme de classification d'images basé sur le **machine learning**
 <br><br>
 
-<span style="font-size: 24px">**FireFighters**</span>
+<span style="font-size: 24px"><a href="https://github.com/ycncy/FireFighters">FireFighters</a></span>
 <br>
 Jeu automate-cellulaire en **Java** (Respectant les principes **SOLID**)
 <br><br>
 
-<span style="font-size: 24px">**Microblogage**</span>
+<span style="font-size: 24px"><a href="https://github.com/ycncy/Microblogage">Microblogage</a></span>
 <br>
 Microblogage utilisant les librairies **java.nio** et **java.io**
 <br><br>
 
-<span style="font-size: 24px">**Flowers**</span>
+<span style="font-size: 24px"><a href="https://github.com/ycncy/flowers">Flowers</a></span>
 <br>
 Application WEB sur la stack **MERN**
 
