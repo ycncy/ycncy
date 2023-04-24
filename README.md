@@ -1,4 +1,9 @@
-# Yacine Talhaoui <img src="https://i.giphy.com/media/3o7qE3mzB6V9MZRSGI/giphy.webp" width="50">
+<div align="center">
+  <h1>Bienvenue sur ma page GitHub !</h1>
+  <img src="https://i.giphy.com/media/3o7qE3mzB6V9MZRSGI/giphy.webp" width="400">
+</div>
+
+Je suis [votre nom], un développeur passionné de [ville/pays]. J'aime travailler sur des projets qui ont un impact positif sur la vie des gens.
 
 ## Mes projets
 
