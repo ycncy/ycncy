@@ -5,10 +5,24 @@
 
 ## Mes projets
 
-- [Classifieur d'images](https://github.com/ycncy/ImageClassifier) : Un programme de classification d'images basé sur le **machine learning**
-- [FireFighters](https://github.com/ycncy/FireFighters) : Jeu automate-cellulaire en **Java** (Respectant les principes **SOLID**)
-- [Microblogage](https://github.com/ycncy/Microblogage) : Microblogage utilisant les librairies **java.nio** et **java.io**
-- [Flowers](https://github.com/ycncy/flowers) : Application WEB sur la stack **MERN**
+<span style="font-size: 24px">**Classifieur d'images**</span>
+<br>
+Un programme de classification d'images basé sur le **machine learning**
+<br><br>
+
+<span style="font-size: 24px">**FireFighters**</span>
+<br>
+Jeu automate-cellulaire en **Java** (Respectant les principes **SOLID**)
+<br><br>
+
+<span style="font-size: 24px">**Microblogage**</span>
+<br>
+Microblogage utilisant les librairies **java.nio** et **java.io**
+<br><br>
+
+<span style="font-size: 24px">**Flowers**</span>
+<br>
+Application WEB sur la stack **MERN**
 
 ## Mes technos
 
