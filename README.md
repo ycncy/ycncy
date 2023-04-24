@@ -3,23 +3,18 @@
   <img src="https://i.giphy.com/media/3o7qE3mzB6V9MZRSGI/giphy.webp" width="400">
 </div>
 
-Je suis [votre nom], un développeur passionné de [ville/pays]. J'aime travailler sur des projets qui ont un impact positif sur la vie des gens.
-
 ## Mes projets
 
-- [Nom du projet 1](lien vers le projet 1) : une description courte du projet 1
-- [Nom du projet 2](lien vers le projet 2) : une description courte du projet 2
-- [Nom du projet 3](lien vers le projet 3) : une description courte du projet 3
+- [Classifieur d'images](https://github.com/ycncy/ImageClassifier) : Un programme de classification d'images basé sur le **machine learning**
+- [FireFighters](https://github.com/ycncy/FireFighters) : Jeu automate-cellulaire en **Java** (Respectant les principes **SOLID**)
+- [Microblogage](https://github.com/ycncy/Microblogage) : Microblogage utilisant les librairies **java.nio** et **java.io**
+- [Flowers](https://github.com/ycncy/flowers) : Application WEB sur la stack **MERN**
 
-## Mes compétences
+## Mes technos
 
-- Langages de programmation : [liste des langages que vous maîtrisez]
-- Outils de développement : [liste des outils que vous utilisez]
-- Autres compétences : [liste de toutes autres compétences que vous avez]
+## Mes outils de développement
 
 ## Me contacter
 
-N'hésitez pas à me contacter si vous avez des questions ou si vous souhaitez discuter de collaborations potentielles !
+<a href="https://www.linkedin.com/in/yacine-talhaoui-3b8bba241/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin&logoColor=white" alt="Linkedin Badge"></a>
 
-- Email : [votre adresse email]
-- LinkedIn : [votre profil LinkedIn]
