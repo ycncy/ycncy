@@ -2,7 +2,7 @@
 <div align="center">
   <h1>Yacine Talhaoui</h1>
   
-  <img src="https://giphy.com/embed/OfXKySrn0Ej4s" width="400">
+  <img src="https://media0.giphy.com/media/X4M6homF66qFq/giphy.gif?cid=6c09b952049f8e88901065a7f4dea55694ea4c2fd86a391a&ep=v1_internal_gifs_gifId&rid=giphy.gif&ct=g" width="400">
 </div>
 
 ## Mes projets
