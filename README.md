@@ -16,5 +16,4 @@
 
 ## Me contacter
 
-<a href="https://www.linkedin.com/in/yacine-talhaoui-3b8bba241/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin&logoColor=white" alt="Linkedin Badge"></a>
-
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yacine-talhaoui-3b8bba241/)
