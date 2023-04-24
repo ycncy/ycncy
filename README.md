@@ -1,7 +1,8 @@
 <div align="center">
 <div align="center">
   <h1>Yacine Talhaoui</h1>
-  <img src="https://media.tenor.com/tWD3GjJcoHgAAAAC/spongebob-computer.gif" width="400">
+  
+  <img src="https://giphy.com/embed/OfXKySrn0Ej4s" width="400">
 </div>
 
 ## Mes projets
